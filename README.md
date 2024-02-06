@@ -1,2 +1,2 @@
-# touch-name
+# touch-num
 A game with numbers
